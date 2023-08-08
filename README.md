@@ -4,11 +4,6 @@
 User can register and login
 
 
-## Authors
-
-- Sowjanya Padmanabha Rao
-
-
 ## Installation
 
 Unzip the file and copy the folder "signupform" in root folder.
